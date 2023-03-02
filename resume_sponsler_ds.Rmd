@@ -51,23 +51,19 @@ Würzburg, Germany
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management
+Project management (10 years)
 
-Data analytics (R)
+Data analytics (10 years)
 
-GIS (R, Arc GIS, QGIS)
+GIS (10 years)
 
-Graphic design (Inkscape, GIMP)
+Graphic design (10 years)
 
-Field botany and entomology
+Public speaking (10 years)
 
-Beekeeping
+Scientific writing (10 years)
 
-Public speaking
-
-Scientific writing
-
-Grant writing
+Grant writing (10 years)
 
 
 Languages
@@ -244,15 +240,15 @@ N/A
 **Sponsler DB**, Grozinger CM, Hitaj C, Rundlöf M, Botías C, Code A, Lonsdorf EV, Melathopoulos AP, Smith DJ, Suryanaryanan S, Thogmartin WE, Williams NM, Zhang M, Douglas MR
 
 
-### Spatial and taxonomic patterns of honey bee foraging: a choice test between urban and agricultural landscapes
+### Mechanistic modeling of honey bee pesticide exposure: the missing keystone of honey bee toxicology
 
-Journal of Urban Ecology 2017;3:1-7
+Toxicology and Chemistry 2017;36:871-881
 
 N/A
 
 2017:
 
-**Sponsler DB**, Matcham EG, Lin C-H, Lanterman JL, Johnson RM
+**Sponsler DB**, Johnson RM
 
 
 

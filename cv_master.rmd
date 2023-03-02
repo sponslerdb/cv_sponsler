@@ -53,15 +53,15 @@ Interests {#interests}
 
 Flower-insect interactions
 
-Ecological data analytics
+Bayesian modeling
+
+Causal inference
 
 Urban ecology
 
 Human-nature interactions
 
 Natural history 
-
-Ecological pedagogy
 
 
 Languages
@@ -145,15 +145,37 @@ University Park, PA, USA
 Peer-reviewed Publications
 --------------------------------------------------------------------------------
 
+### Distance functions underlying natural enemy within-field distributions: assessing the effects of crop type and adjacent habitats
+
+(Submitted to *Nature Ecology and Evolution*)
+
+N/A
+
+2023
+
+Boetzl FA, **Sponsler DB**, et al.
+
+
+### Pollinator competition and the structure of floral resources
+
+(in-revision at *Ecography*)
+
+N/A
+
+2023
+
+**Sponsler DB**, Iverson AL, Steffan-Dewenter I
+
+
 ### Grassy–herbaceous land moderates regional climate effects on honey bee colonies in the Northcentral U.S.
 
-Environmental Research Letters (in press)
+Environmental Research Letters 17;064036
 
 N/A
 
 2022
 
-Quinlan G, **Sponsler D**, Gaines-Day HR, McMinn-Sauder HBG, Otto CRV, Smart AH, Colin T, Gratton C, Isaacs R, Johnson R, Milbrath MO, Grozinger CM
+Quinlan G, **Sponsler DB**, Gaines-Day HR, McMinn-Sauder HBG, Otto CRV, Smart AH, Colin T, Gratton C, Isaacs R, Johnson R, Milbrath MO, Grozinger CM
 
 
 ### Contrasting patterns of richness, abundance, and turnover in mountain bumble bees and their floral hosts
@@ -629,13 +651,22 @@ The Ohio State University, Columbus, OH
 Guest Lectures
 --------------------------------------------------------------------------------
 
+### Interdepartmental Ring Lecture (Ecology and Time)
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2023
+
+
 ### Honey Bee Ecology
 
 N/A
 
 University of Würzburg, Würzburg, Germany
 
-2020 - 2021
+2020 - 2022
 
 
 ### Animal Pollinators
@@ -645,6 +676,15 @@ N/A
 University of Würzburg, Würzburg, Germany
 
 2021
+
+
+### R Club (GAMs, Writing in RMarkdown, Causal Inference)
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2020 - 2023
 
 
 ### Pollination Ecology
@@ -732,9 +772,20 @@ The Ohio State University, Columbus, OH
 Invited Presentations
 --------------------------------------------------------------------------------
 
-### Floral resource structure and the conservation of urban pollinators. 
+### Gardens as pollinator habitat: limitations, potential, and context
 
-Protecting Pollinators in Urban Landscapes Conference (to be given 11 Oct 2022)
+New Directions in the American Landscape (NDAL) annual symposium (to be given 14 Mar 2023)
+
+Philadelphia, PA (virtual)
+
+2023:
+
+**Sponsler DB**
+
+
+### Flowers are food, pollinators are florivores, and what we're doing here is trophic ecology. 
+
+Protecting Pollinators in Urban Landscapes Conference (11 Oct 2022)
 
 Athens, GA (virtual)
 
@@ -1236,6 +1287,15 @@ Wooster, OH
 Professional Training
 --------------------------------------------------------------------------------
 
+### Data management
+
+5-day short course on research data management
+
+German Ecological Society (GfÖ), virtual meeting
+
+2022:
+
+
 ### Open Source Geospatial Data Analysis
 
 3-day short course on geospatial data analysis with R and Python
@@ -1300,6 +1360,15 @@ Department of Animal Ecology and Tropical Biology of the University of Würzburg
 N/A
 
 2020 - present
+
+
+### Executive committee member
+
+Philadelphia Botanical Club
+
+N/A
+
+2019 - present
 
 
 ### Diversity and inclusion panel member
@@ -1378,6 +1447,14 @@ Skills
 --------------------------------------------------------------------------------
 
 ### R statistical software
+
+N/A
+
+N/A
+
+N/A
+
+### Directed acyclic graphs and causal inference
 
 N/A
 
