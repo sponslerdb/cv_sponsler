@@ -142,6 +142,231 @@ University Park, PA, USA
 - Contribute to classroom- and field-based teaching
 
 
+Course Instruction
+--------------------------------------------------------------------------------
+
+### Pesticides and their Use
+
+Developed and taught course
+
+Ohio Agricultural Technical Institute, Wooster, OH
+
+2016
+
+
+### General Entomology
+
+Lab instructor
+
+Ohio Agricultural Technical Institute, Wooster, OH
+
+2016
+
+
+### Philosophy of Science
+
+Visiting instructor
+
+Central Christian High School, Kidron, OH
+
+2014
+
+
+### Energy Transfer and Development
+
+Graduate Teaching Assistant
+
+The Ohio State University, Columbus, OH
+
+2012
+
+
+Mentoring
+--------------------------------------------------------------------------------
+
+### MS mentor
+
+Co-mentor of Michael Wiesneth
+
+University of Würzburg, Würzburg, Germany
+
+2023 - present
+
+
+### MS mentor
+
+Co-mentor of Murray Hamilton.
+
+University of Würzburg, Würzburg, Germany
+
+2023 - present
+
+
+### MS mentor
+
+Co-mentor of Jessica Strehl.
+
+University of Würzburg, Würzburg, Germany
+
+2022 - present
+
+
+### Ph.D. mentor
+
+External committee member for Austin Martin.
+
+Temple University, Philadelphia, PA
+
+2022 - present
+
+
+### Ph.D. mentor 
+
+Co-advisor of Giulia Mainardi.
+
+University of Würzburg, Würzburg, Germany
+
+2021 - present
+
+
+### Undergraduate mentor
+
+Supervised undergraduate research Dalton Brough.
+
+Penn State University, University Park, PA
+
+2017 - 2018
+
+
+### Science Olympiad coach (NSF GK-12)
+
+N/A 
+
+Orrville Middle School, Orrville, OH
+
+2014 - 2015
+
+
+Guest Lectures
+--------------------------------------------------------------------------------
+
+### Interdepartmental Ring Lecture (Ecology and Time)
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2023
+
+
+### Honey Bee Ecology
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2020 - 2022
+
+
+### Animal Pollinators
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2021
+
+
+### R Club (GAMs, Writing in RMarkdown, Causal Inference)
+
+N/A
+
+University of Würzburg, Würzburg, Germany
+
+2020 - 2023
+
+
+### Pollination Ecology
+
+N/A
+
+California State University Fresno, Fresno, CA
+
+2019
+
+
+### Urban Ecology
+
+N/A
+
+PA Master Naturalist Program, Philadelphia, PA
+
+2019
+
+
+### Introduction to Ecology
+
+N/A
+
+PA Master Naturalist Program, Philadelphia, PA
+
+2019
+
+
+### Plant-Animal Interactions
+
+N/A
+
+Drexel University, Philadelphia, PA
+
+2019
+
+
+### Advances in Ecology
+
+N/A
+
+Pennsylvania State University, State College, PA
+
+2018
+
+
+### Pollinators in Designed Greenspace
+
+N/A
+
+Pennsylvania State University, State College, PA
+
+2018
+
+
+### Urban Pollinator Ecology
+
+N/A
+
+Dickinson College, Carlisle, PA.
+
+2018
+
+
+### Honey Bees and Humans
+
+N/A
+
+Pennsylvania State University, State College, PA
+
+2017
+
+
+### Beekeeping
+
+N/A
+
+The Ohio State University, Columbus, OH
+
+2013 - 2015
+
+
 Peer-reviewed Publications
 --------------------------------------------------------------------------------
 
@@ -570,233 +795,6 @@ N/A
 2014:
 
 The Ohio Agricultural Research and Development Center
-
-
-Mentoring
---------------------------------------------------------------------------------
-
-### MS mentor
-
-Co-mentor of Michael Wiesneth
-
-University of Würzburg, Würzburg, Germany
-
-2023 - present
-
-
-### MS mentor
-
-Co-mentor of Murray Hamilton.
-
-University of Würzburg, Würzburg, Germany
-
-2023 - present
-
-
-### MS mentor
-
-Co-mentor of Jessica Strehl.
-
-University of Würzburg, Würzburg, Germany
-
-2022 - present
-
-
-### Ph.D. mentor
-
-External committee member for Austin Martin.
-
-Temple University, Philadelphia, PA
-
-2022 - present
-
-
-### Ph.D. mentor 
-
-Co-advisor of Giulia Mainardi.
-
-University of Würzburg, Würzburg, Germany
-
-2021 - present
-
-
-### Undergraduate mentor
-
-Supervised undergraduate research Dalton Brough.
-
-Penn State University, University Park, PA
-
-2017 - 2018
-
-
-### Science Olympiad coach (NSF GK-12)
-
-N/A 
-
-Orrville Middle School, Orrville, OH
-
-2014 - 2015
-
-
-
-
-Course Instruction
---------------------------------------------------------------------------------
-
-### Pesticides and their Use
-
-Developed and taught course
-
-Ohio Agricultural Technical Institute, Wooster, OH
-
-2016
-
-
-### General Entomology
-
-Lab instructor
-
-Ohio Agricultural Technical Institute, Wooster, OH
-
-2016
-
-
-### Philosophy of Science
-
-Visiting instructor
-
-Central Christian High School, Kidron, OH
-
-2014
-
-
-### Energy Transfer and Development
-
-Graduate Teaching Assistant
-
-The Ohio State University, Columbus, OH
-
-2012
-
-
-Guest Lectures
---------------------------------------------------------------------------------
-
-### Interdepartmental Ring Lecture (Ecology and Time)
-
-N/A
-
-University of Würzburg, Würzburg, Germany
-
-2023
-
-
-### Honey Bee Ecology
-
-N/A
-
-University of Würzburg, Würzburg, Germany
-
-2020 - 2022
-
-
-### Animal Pollinators
-
-N/A
-
-University of Würzburg, Würzburg, Germany
-
-2021
-
-
-### R Club (GAMs, Writing in RMarkdown, Causal Inference)
-
-N/A
-
-University of Würzburg, Würzburg, Germany
-
-2020 - 2023
-
-
-### Pollination Ecology
-
-N/A
-
-California State University Fresno, Fresno, CA
-
-2019
-
-
-### Urban Ecology
-
-N/A
-
-PA Master Naturalist Program, Philadelphia, PA
-
-2019
-
-
-### Introduction to Ecology
-
-N/A
-
-PA Master Naturalist Program, Philadelphia, PA
-
-2019
-
-
-### Plant-Animal Interactions
-
-N/A
-
-Drexel University, Philadelphia, PA
-
-2019
-
-
-### Advances in Ecology
-
-N/A
-
-Pennsylvania State University, State College, PA
-
-2018
-
-
-### Pollinators in Designed Greenspace
-
-N/A
-
-Pennsylvania State University, State College, PA
-
-2018
-
-
-### Urban Pollinator Ecology
-
-N/A
-
-Dickinson College, Carlisle, PA.
-
-2018
-
-
-### Honey Bees and Humans
-
-N/A
-
-Pennsylvania State University, State College, PA
-
-2017
-
-
-### Beekeeping
-
-N/A
-
-The Ohio State University, Columbus, OH
-
-2013 - 2015
 
 
 
