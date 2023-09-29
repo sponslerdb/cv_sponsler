@@ -69,7 +69,7 @@ Languages
 
 English (native)
 
-German (B1 / early intermediate)
+German (intermediate)
 
 
 Main
@@ -145,6 +145,17 @@ University Park, PA, USA
 Peer-reviewed Publications
 --------------------------------------------------------------------------------
 
+### High rates of nectar depletion in summer grasslands indicate competitive conditions for pollinators
+
+*Conservation Letters*
+
+N/A
+
+*submitted*
+
+**Sponsler DB**, Dominik C, Biegerl C, Honchar H, Schweiger O, Steffan-Dewenter I
+
+
 ### Next-generation colony weight monitoring: a review and prospectus
 
 *Apidologie*
@@ -158,7 +169,7 @@ McMinn-Sauder H [...] **Sponsler DB**
 
 ### Antimicrobial wound care in an ant society
 
-*Nature Ecology and Evolution*
+*Nature Communications*
 
 N/A
 
@@ -180,7 +191,7 @@ Boetzl FA, **Sponsler DB**, et al.
 
 ### Pollinator competition and the structure of floral resources
 
-*Ecography* (in press)
+*Ecography* 2023;e06651
 
 N/A
 
