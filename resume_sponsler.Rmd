@@ -51,21 +51,15 @@ Würzburg, Germany
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-Project management (10 years)
+Teaching and mentoring (12 years)
 
-Data analytics in R (10 years)
+Field biology (12 years)
 
-Bayesian modeling (3 years)
+Data analytics (12 years)
 
-Causal inference (2 years)
+Public speaking (12 years)
 
-GIS (10 years)
-
-Data visualization (10 years)
-
-Public speaking (10 years)
-
-Scientific writing (10 years)
+Scientific writing (12 years)
 
 
 
@@ -191,14 +185,6 @@ N/A
 N/A
 
 ### Delivered more than 20 invited presentations to professional audiences
-
-N/A
-
-N/A
-
-N/A
-
-### Delivered more than 30 public outreach presentations and/or workshops
 
 N/A
 
