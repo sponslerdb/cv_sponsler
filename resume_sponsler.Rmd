@@ -51,15 +51,15 @@ Würzburg, Germany
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-Teaching and mentoring (12 years)
+Teaching and mentoring
 
-Field biology (12 years)
+Field biology
 
-Data analytics (12 years)
+Data analytics
 
-Public speaking (12 years)
+Public speaking
 
-Scientific writing (12 years)
+Scientific writing
 
 
 
@@ -109,12 +109,13 @@ Würzburg, Germany
 
 2020 - present
 
+- Contribute to classroom- and field-based teaching
+- Mentor Ph.D. and MS students
 - Lead pollinator competition module of EU Project Safeguard
 - Lead study of bumble- bee-wildflower interactions in the Alps
-- Mentor Ph.D. and MS students
 - Provide statistical support to students and colleagues
 - Organize department seminar program
-- Contribute to classroom- and field-based teaching
+
 
 ### Research Associate
 
@@ -135,10 +136,11 @@ University Park, PA, USA
 
 2017 - 2020
 
+- Contribute to classroom- and field-based teaching
 - Design, conduct, and analyze USDA-NIFA-funded field studies of honey bee colony health
 - Lead an NSF-funded multi-institutional working group in the development of a framework for understanding pesticide effects on pollinators
 - Extend research to beekeeper and master gardener organizations
-- Contribute to classroom- and field-based teaching
+
 
 
 Accomplishments
@@ -244,29 +246,11 @@ N/A
 Professional Training (selected)
 --------------------------------------------------------------------------------
 
-### Data management
+### REACH suicide prevention training
 
-5-day short course on research data management
+Workshop on suicide prevention, designed especially for professors working with undergraduate students
 
-German Ecological Society (GfÖ), virtual meeting
-
-2022:
-
-
-### Open Source Geospatial Data Analysis
-
-3-day short course on geospatial data analysis with R and Python
-
-Socioecological Synthesis Center (SESYNC), Annapolis, MD
-
-2018:
-
-
-### Introduction to individual-based/agent-based modelling
-
-Two-day workshop taught by Volker Grimm, Nika Galic, and Michael Crawford
-
-Towson, MD
+The Ohio State University, Columbus, OH
 
 2016:
 
